@@ -1,6 +1,6 @@
 {
   "name": "lrn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple math functions",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/ounarmour/lrn#readme",
   "publishConfig": {
-		"registry":"http://artifactorydev.it.keysight.com:8081/artifactory/api/npm/npm-local-lrn"
-	}
+    "registry": "http://artifactorydev.it.keysight.com:8081/artifactory/api/npm/npm-local-lrn"
+  }
 }

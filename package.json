@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ounarmour/lrn.git"
   },
-  "author": "Louis Narmour",
+  "author": "ounarmour <solderless1@gmail.com> (https://github.com/ounarmour)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ounarmour/lrn/issues"

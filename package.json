@@ -1,0 +1,19 @@
+{
+  "name": "lrn",
+  "version": "1.0.0",
+  "description": "simple math functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ounarmour/lrn.git"
+  },
+  "author": "Louis Narmour",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ounarmour/lrn/issues"
+  },
+  "homepage": "https://github.com/ounarmour/lrn#readme"
+}

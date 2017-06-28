@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/ounarmour/lrn/issues"
   },
-  "homepage": "https://github.com/ounarmour/lrn#readme",
-  "publishConfig": {
-    "registry": "http://artifactorydev.it.keysight.com:8081/artifactory/api/npm/npm-local-lrn"
-  }
+  "homepage": "https://github.com/ounarmour/lrn#readme"
 }
